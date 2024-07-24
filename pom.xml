@@ -12,7 +12,7 @@
 	<artifactId>d13revision</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>d13revision</name>
-	<description>Day 13 revision project 1 for Spring Boot</description>
+	<description>Day 13 revision project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
